@@ -62,12 +62,46 @@ Se utiliza contenido real del siguiente artículo:
 "¿Qué tipo de tracción tiene?"
 ```
 
+## 🕁️ Instrucciones de uso en Python (local)
+
+1. Clona el repositorio y crea un entorno virtual:
+
+```bash
+git clone https://github.com/tu_usuario/rag-bmw-m235i.git
+cd rag-bmw-m235i
+python -m venv venv
+source venv/bin/activate  # En Windows: venv\Scripts\activate
+```
+
+2. Instala las dependencias:
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Exporta tus claves como variables de entorno:
+
+```bash
+export OPENAI_API_KEY="tu_clave_openai"
+export PINECONE_API_KEY="tu_clave_pinecone"
+export LANGSMITH_API_KEY="tu_clave_langsmith"  # opcional
+```
+
+4. Ejecuta el archivo principal (adaptado desde el notebook):
+
+```bash
+python main.py
+```
+
+5. Escribe preguntas en consola o modifica el archivo para pruebas automáticas.
+
+
 ---
 
 ## 📂 Estructura del Colab
 
 ```text
-Untitled4.ipynb
+lab09.ipynb
 🔻— Instala dependencias
 🔻— Configura claves
 🔻— Inicializa modelo LLM y embeddings
@@ -84,5 +118,10 @@ Untitled4.ipynb
 
 **Tomas Suárez Piratova**  
 🚀 Proyecto académico para evaluación de LangChain y Pinecone
+
+
+
+
+
 
 
