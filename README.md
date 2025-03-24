@@ -112,6 +112,18 @@ lab09.ipynb
 🔻— Ejecuta preguntas
 ```
 
+## 📂 Pruebas
+![image](https://github.com/user-attachments/assets/56768348-a5f3-40f4-8c48-9fe03ee7b5ee)
+![image](https://github.com/user-attachments/assets/4dbd9d0f-626d-40a5-b1f8-c20caa46a3f0)
+![image](https://github.com/user-attachments/assets/892bbbcc-f40f-4929-ae31-f1a6c75ef0f6)
+![image](https://github.com/user-attachments/assets/1c8e64d2-6e49-4764-9a81-b7cb91124761)
+![image](https://github.com/user-attachments/assets/4ca6b11a-b5b5-4dec-a43b-e5cf1cb2bfd3)
+![image](https://github.com/user-attachments/assets/4c245582-4fc0-48e8-bcb0-87a1d417f028)
+![image](https://github.com/user-attachments/assets/3d5a657b-9bb4-47da-a9d3-4d462fa4497e)
+
+
+
+
 ---
 
 ## ✍️ Autor
